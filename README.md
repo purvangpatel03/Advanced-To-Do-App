@@ -1,16 +1,15 @@
-# todo_app
+# Advanced ToDo App
 
-A new Flutter project.
+Developed a feature-rich to-do list application designed for superior task organization. 
 
-## Getting Started
+This app empowers users to create detailed tasks with custom tags for flexible categorization. 
 
-This project is a starting point for a Flutter application.
+It boasts a robust overdue task management system, allowing users to easily browse and address past 15 days' worth of missed deadlines. Additionally, the app provides clear visualization of completed tasks, promoting a sense of accomplishment and fostering a productive workflow.
 
-A few resources to get you started if this is your first Flutter project:
+### Few screenshots from ToDo app.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<a href="url"><img src="https://github.com/purvangpatel03/Advanced-To-Do-App/blob/main/assets/Screenshot_20240222_124520.png" align="left" width="160" ></a>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="url"><img src="https://github.com/purvangpatel03/Advanced-To-Do-App/blob/main/assets/Screenshot_20240222_125449.png" align="left" width="160" ></a>
+
+<a href="url"><img src="https://github.com/purvangpatel03/Advanced-To-Do-App/blob/main/assets/Screenshot_20240222_125632.png" align="left" width="160" ></a>
